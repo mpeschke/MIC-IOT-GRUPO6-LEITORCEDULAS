@@ -8,6 +8,8 @@ Este projeto é uma demonstração de uma comunicação entre um microprocessado
 
 # Schematics
 
+![alt text](https://github.com/mpeschke/MIC-IOT-GRUPO6-LEITORCEDULAS/blob/main/LogicFlow.jpeg?raw=true)  
+
 ![alt text](https://github.com/mpeschke/MIC-IOT-GRUPO6-LEITORCEDULAS/blob/main/Schematic.jpg?raw=true)  
 
 # Demonstração
